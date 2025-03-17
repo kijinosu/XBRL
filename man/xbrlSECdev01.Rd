@@ -15,7 +15,7 @@ xbrlSECdev01(xbrl.vars)
 }
 \value{a list of "methods"}
 \details{
-  \itemize{
+  \describe{
     \item{showPresentationHierarchy(showLabels=TRUE, showFacts=FALSE,
       file="")}{ Shows a tree of the presentations provided.}
   }
